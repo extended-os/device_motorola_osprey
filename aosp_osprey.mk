@@ -24,7 +24,7 @@ $(call inherit-product, vendor/aosp/common.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := osprey
 PRODUCT_NAME := aosp_osprey
-PRODUCT_MODEL := MotoG3
+PRODUCT_MODEL := Moto G 2015
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := osprey
